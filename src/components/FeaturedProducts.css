@@ -1,0 +1,17 @@
+.featured-products {
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .product-item {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
